@@ -1,4 +1,5 @@
 #Introduction
+Les exemples ci-joints sont des projets soutenus l'année dernière. 
 
 # Description du Dossier de Synthèse de Pratique Professionelle (DSPP)
 
@@ -16,7 +17,7 @@ l'application à développer
 * Réalisation
 Sa longueur hors annexes est de 30 à 60 pages, avec 45000 signes au minimum.
 
-Un mois avant la session de validation réalisée du 10 au 12 Janvier, le candidat remet à l’organisateur un résumé du cahier des charges du projet,d’une longueur de 200 à 300 mots.
+Un mois avant la session de validation, le candidat remet à l’organisateur un résumé du cahier des charges du projet,d’une longueur de 200 à 300 mots.
 
 # Liste des compétences du référentiel
 
@@ -55,27 +56,3 @@ Un questionnement complémentaire lui permet d’évaluer les compétences qui n
 
 ## Entretien final (15 min)
 Le jury pose des questions supplémentaires aux candidats.
-
-
-
-# Répartition des équipes
-## DDCSPP
-* Abdul - Julien Ghaffar
-* Thomas - Gael
-
-## La Bouée Corsaire
-* Antoine Stéphane - JP Annie-Line
-* Youness Juliette - Latifa Lise
-
-## Face
-* Rebecca Valentin - Floryan Nabil
-* Solène Miguel - Ronald Patrice
-
-# 2Tech
-* Redfish - Tyjow
-
-# Planning
-Pour Mercredi de la semaine prochaine :
- * Rédaction du cahier des charges
- * Définition du planning
- * Présentation du projet
